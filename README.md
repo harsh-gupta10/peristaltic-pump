@@ -1,5 +1,5 @@
 
-###A contactless pump created through 3D printing, equipped with various actuators and sensors for real-time data monitoring.
+A contactless pump created through 3D printing, equipped with various actuators and sensors for real-time data monitoring.
 For running the hardware part:
 connect the motor to dc supply and arduino to the laptopm on which you have to upload arduino code and you are all set to go 
 For running the software part:
