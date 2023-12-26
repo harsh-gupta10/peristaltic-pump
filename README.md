@@ -9,3 +9,15 @@ For running the software part:
 4. run the python file app.txt 
 5. run the website using np rum dev 
 6. Open the website and have look on real time data  
+
+
+
+List of Components-https://docs.google.com/spreadsheets/d/1FXbp_Jz6Jm2FK_gVgg1jhPcFKtX3gmnpA_2Eg3physU/edit#gid=0
+STemperature Sensor
+https://lastminuteengineers.com/ds18b20-arduino-tutorial/
+
+3-d Print Website
+https://www.instructables.com/DIY-Peristaltic-Pump/
+
+Which we are following
+https://www.thingiverse.com/thing:5866453
